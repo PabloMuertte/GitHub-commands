@@ -1,7 +1,7 @@
 # My git Instruction
 
 ## Git Commands
-## Main commands
+# Main commands
 * "git version" - команда выводящая в терминал текущую версию Git;
 
 * "git init" - команда, инициализирующая репозиторий в текущей папке;
