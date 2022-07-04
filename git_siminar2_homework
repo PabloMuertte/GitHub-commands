@@ -29,6 +29,9 @@
 * "git branch -d 'branch name'" - команда для удаления ветки git;
 
 * "git --graph" гафическое выведение веток git
+* "git push" команда для отправки репозитория в GitHUB
+
+* "git pull" выгрузить репозиторий из GitHUB
 
 ## Text formating
 
